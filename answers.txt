@@ -1,0 +1,50 @@
+1.Version control is a system that records changes to a file or set of files over time so that you can recall specific versions later.
+collaboration:
+Allows you and your team to work together on the same project.
+The project doesn't have to be a program. You can use a version control system to write a book with other people.
+change tracking:
+Version control create a history of all the changes you want to be saved.
+It allows you to revert or go back in time if you happen and undo any mistakes that may have been made.
+2
+free and open source
+friction less environment
+collaboration
+change tracking
+3
+When you set up command create a specific user. convent way to set configuration for your installation.
+4
+source control system
+5
+mercurial, git
+6
+git checkout
+7
+message git commit -m “message”
+8
+commit
+9
+conflict
+10
+fetch
+11
+.git .gitignore
+12
+git branch branch name
+13
+git merge
+14
+git fork
+
+15.git merge
+16.git pull
+17.git push
+18.github local repository
+19.under team project location
+20. stage
+21.tag is used to mark particular commit in repository for mark releases
+22. .git folder
+23.under code commit section
+24.git status
+25. git add name
+26.git commit
+27. 1. untracked 2 unmodified 3 modified 4 staged
